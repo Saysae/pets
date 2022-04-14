@@ -21,3 +21,7 @@ $f3->route('GET /', function() {
     echo $view->render('views/home.html');
 }
 );
+
+//Run fat free
+// -> is invoking the run() method in the fat-free
+$f3->run();
