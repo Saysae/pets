@@ -1,0 +1,15 @@
+{
+  "name": "pluonggr/328/pets",
+  "authors": [
+    {
+      "name": "Patrick Luong",
+      "email": "luong.patrick@student.greenriver.edu"
+    },
+    {
+      "name": "Renee Holter"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
